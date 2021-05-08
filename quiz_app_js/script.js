@@ -1,83 +1,83 @@
 const quizDB=[
     {
-        question: "Q1 HP",
-        a:"Option1 q1",
-        b:"Option2 q1",
-        c:"Option3 q1",
-        d:"Option4 q1",
+        question: "Who is Harry Potter's godfather?",
+        a:"Lord Voldemort",
+        b:"Sirius Black",
+        c:"Eldred Worple",
+        d:"Dumbledore",
+        ans:"ans2"
+    },
+    {
+        question: "What is the name of Harry Potter's owl?",
+        a:"Dobby",
+        b:"Nagini",
+        c:"Griphook",
+        d:"Hedwig",
         ans:"ans4"
     },
     {
-        question: "Q2",
-        a:"Option1",
-        b:"Option2",
-        c:"Option3",
-        d:"Option4",
-        ans:"ans4"
-    },
-    {
-        question: "Q3",
-        a:"Option1",
-        b:"Option2",
-        c:"Option3",
-        d:"Option4",
-        ans:"ans4"
-    },
-    {
-        question: "Q4",
-        a:"Option1",
-        b:"Option2",
-        c:"Option3",
-        d:"Option4",
-        ans:"ans4"
-    },
-    {
-        question: "Q5",
-        a:"Option1 q1",
-        b:"Option2 q1",
-        c:"Option3 q1",
-        d:"Option4 q1",
-        ans:"ans4"
-    },
-    {
-        question: "Q6",
-        a:"Option1 q1",
-        b:"Option2 q1",
-        c:"Option3 q1",
-        d:"Option4 q1",
-        ans:"ans4"
-    },
-    {
-        question: "Q7",
-        a:"Option1 q1",
-        b:"Option2 q1",
-        c:"Option3 q1",
-        d:"Option4 q1",
-        ans:"ans4"
-    },
-    {
-        question: "Q8",
-        a:"Option1 q1",
-        b:"Option2 q1",
-        c:"Option3 q1",
-        d:"Option4 q1",
-        ans:"ans4"
-    },
-    {
-        question: "Q9",
-        a:"Option1 q1",
-        b:"Option2 q1",
-        c:"Option3 q1",
-        d:"Option4 q1",
+        question: "What position does Harry play on the Quidditch team?",
+        a:"Chaser",
+        b:"Snitch",
+        c:"Keeper",
+        d:"Seeker",
         ans:"ans4"
     }, 
     {
-        question: "Q10",
-        a:"Option1 q1",
-        b:"Option2 q1",
-        c:"Option3 q1",
-        d:"Option4 q1",
-        ans:"ans4"
+        question: "Who poses as Mad-Eye Moody, Harry's 4th year Defense Against the Dark Arts professor?",
+        a:"Barty Crouch, Jr.",
+        b:"Remus Lupin",
+        c:"Dudley Dursley, Jr.",
+        d:"Newt Scamander",
+        ans:"ans1"
+    },
+    {
+        question: "Who was Hermione’s date at the Yule Ball?",
+        a:"Viktor Krum",
+        b:"Ron Weasley",
+        c:"Harry Potter",
+        d:"Oliver Wood",
+        ans:"ans1"
+    },
+    {
+        question: "How would you spell the spell you would use to disarm someone?" ,
+        a:"Capacious Extremis",
+        b:"Expelliarmus",
+        c:"Disapparate",
+        d:"Engorgio",
+        ans:"ans2"
+    },
+    {
+        question: "What was the first Horcrux to be destroyed?",
+        a:"Marvolo Gaunt's Ring",
+        b:"Salazar Slytherin's Locket",
+        c:"Tom Riddle's diary",
+        d:"Helga Hufflepuff's Cup",
+        ans:"ans3"
+    },
+    {
+        question: "What creature is Aragog?",
+        a:"Dementors",
+        b:"Obscurus",
+        c:"Acromantula",
+        d:"Thestrals",
+        ans:"ans3"
+    },
+    {
+        question: "And what platform do students need to catch it from at King's Cross?",
+        a:"Platform 9 3/4",
+        b:"Platform 8 2/4 ",
+        c:"Platform 11 3/2",
+        d:"Platform 4 8/9",
+        ans:"ans1"
+    },
+    {
+        question: "Spell the incantation for one of the Half-Blood Prince’s spells",
+        a:"Finite Incantatem",
+        b:"Impedimenta",
+        c:"Sectumsempra",
+        d:"Legilimens",
+        ans:"ans3"
     },
     
 ];
